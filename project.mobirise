@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "CSI",
-    "currentPage": "customercontact.html",
+    "currentPage": "careers.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#000000",
+        "primaryColor": "#efefef",
         "secondaryColor": "#ffffff",
         "successColor": "#f28281",
         "infoColor": "#ffffff",
@@ -536,7 +536,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#efefef!important"
             },
             ".btn": {
               "font-family": "'Roboto', sans-serif",
@@ -567,7 +567,7 @@
               "src": "@PROJECT_PATH@/assets/images/csi-logo-white-195x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "http://www.csiems.co.uk",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -578,7 +578,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Electronic<br>Manufacturing <br>Services</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"procurement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-globe mbr-iconfont mbr-iconfont-btn\"></span>PROCUREMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Turnkey</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>ASSEMBLY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\"></span>TEST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Quality.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Approvals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Inspection Equipment</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"procurement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-globe mbr-iconfont mbr-iconfont-btn\"></span>PROCUREMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sourcing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Turnkey</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>ASSEMBLY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\"></span>TEST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Quality.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Approvals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Inspection Equipment</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -671,7 +671,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/csi-irwin19-04-2017-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/csi-meeting-2000x1334.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -738,7 +738,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#efefef!important"
             },
             ".btn": {
               "font-family": "'Roboto', sans-serif",
@@ -780,7 +780,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Electronic<br>Manufacturing <br>Services</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"procurement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-globe mbr-iconfont mbr-iconfont-btn\"></span>PROCUREMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Turnkey</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>ASSEMBLY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\"></span>TEST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Quality.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Approvals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Inspection Equipment</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"procurement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-globe mbr-iconfont mbr-iconfont-btn\"></span>PROCUREMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sourcing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Turnkey</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>ASSEMBLY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\"></span>TEST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Quality.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Approvals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Inspection Equipment</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -823,7 +823,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/csi-irwin19-04-2017-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/led-circuit-1400x885.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -842,7 +842,7 @@
             }
           },
           "title": "",
-          "text": "Effective Management of our supply partners and the supply chain is critical to providing a reliable and robust  component supply. we recognise the importance of the procurement process  as a strategic part of our business.<br>Our experienced procurement professionals have a wide range of specialist experience in both the UK and global markets, this experience and the relationships are key to <br>At CSI we employ the latest systems to provide as much accurate and  useful information as possible, modern vendor and material management techniques  optimise and monitor the effectiveness of the Supply Chain and reduce the total cost of ownership:-<br>In these tough times  we continually work with both our customers and our suppliers to enable us to provide security of supply and avoid those nasty surprises..",
+          "text": "Effective Management of our supply partners and the supply chain is critical to providing a reliable and robust  component supply. we recognise the importance of the procurement process  as a strategic part of our business.<br>Our experienced procurement professionals have a wide range of specialist experience in both the UK and global markets, this experience and the relationships are key to <br>At CSI we employ the latest systems to provide as much accurate and  useful information as possible, modern vendor and material management techniques  optimise and monitor the effectiveness of the Supply Chain and reduce the total cost of ownership:.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -921,7 +921,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/csi-irwin19-04-2017-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/row-of-circuit-boards-2000x1282.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -988,7 +988,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#efefef!important"
             },
             ".btn": {
               "font-family": "'Roboto', sans-serif",
@@ -1030,7 +1030,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Electronic<br>Manufacturing <br>Services</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"procurement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-globe mbr-iconfont mbr-iconfont-btn\"></span>PROCUREMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Turnkey</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>ASSEMBLY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\"></span>TEST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Quality.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Approvals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Inspection Equipment</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"procurement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-globe mbr-iconfont mbr-iconfont-btn\"></span>PROCUREMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sourcing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Turnkey</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>ASSEMBLY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\"></span>TEST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Quality.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Approvals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Inspection Equipment</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1073,7 +1073,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/csi-irwin19-04-2017-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/csi-irwin19-04-2017-3-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1092,7 +1092,7 @@
             }
           },
           "title": "",
-          "text": "Effective Management of our supply partners and the supply chain is critical to providing a reliable and robust  component supply. we recognise the importance of the procurement process  as a strategic part of our business.<br>Our experienced procurement professionals have a wide range of specialist experience in both the UK and global markets, this experience and the relationships are key to <br>At CSI we employ the latest systems to provide as much accurate and  useful information as possible, modern vendor and material management techniques  optimise and monitor the effectiveness of the Supply Chain and reduce the total cost of ownership:-<br>In these tough times  we continually work with both our customers and our suppliers to enable us to provide security of supply and avoid those nasty surprises..",
+          "text": "Effective Management of our supply partners and the supply chain is critical to providing a reliable and robust  component supply. we recognise the importance of the procurement process  as a strategic part of our business.<br><br>Our experienced procurement professionals have a wide range of specialist experience in both the UK and global markets, this experience and the relationships are key to <br>At CSI we employ the latest systems to provide as much accurate and  useful information as possible, modern vendor and material management techniques  optimise and monitor the effectiveness of the Supply Chain and reduce the total cost of ownership:-<br>In these tough times  we continually work with both our customers and our suppliers to enable us to provide security of supply and avoid those nasty surprises..",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1238,7 +1238,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#efefef!important"
             },
             ".btn": {
               "font-family": "'Roboto', sans-serif",
@@ -1280,7 +1280,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Electronic<br>Manufacturing <br>Services</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"procurement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-globe mbr-iconfont mbr-iconfont-btn\"></span>PROCUREMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Turnkey</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>ASSEMBLY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\"></span>TEST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Quality.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Approvals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Inspection Equipment</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"procurement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-globe mbr-iconfont mbr-iconfont-btn\"></span>PROCUREMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sourcing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Turnkey</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>ASSEMBLY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\"></span>TEST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Quality.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Approvals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Inspection Equipment</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1323,7 +1323,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/csi-irwin19-04-2017-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/csi-irwin19-04-2017-2-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1488,7 +1488,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#efefef!important"
             },
             ".btn": {
               "font-family": "'Roboto', sans-serif",
@@ -1530,7 +1530,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Electronic<br>Manufacturing <br>Services</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"procurement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-globe mbr-iconfont mbr-iconfont-btn\"></span>PROCUREMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Turnkey</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>ASSEMBLY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\"></span>TEST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Quality.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Approvals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Inspection Equipment</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"procurement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-globe mbr-iconfont mbr-iconfont-btn\"></span>PROCUREMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sourcing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Turnkey</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>ASSEMBLY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\"></span>TEST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Quality.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Approvals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Inspection Equipment</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1573,7 +1573,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/csi-irwin19-04-2017-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/csi-irwin19-04-2017-4-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1671,7 +1671,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/csi-irwin19-04-2017-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/csi-irwin19-04-2017-1-2000x1334.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1738,7 +1738,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#efefef!important"
             },
             ".btn": {
               "font-family": "'Roboto', sans-serif",
@@ -1780,7 +1780,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Electronic<br>Manufacturing <br>Services</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"procurement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-globe mbr-iconfont mbr-iconfont-btn\"></span>PROCUREMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Turnkey</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>ASSEMBLY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\"></span>TEST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Quality.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Approvals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Inspection Equipment</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"procurement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-globe mbr-iconfont mbr-iconfont-btn\"></span>PROCUREMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sourcing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Turnkey</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>ASSEMBLY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\"></span>TEST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Quality.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Approvals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Inspection Equipment</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1823,7 +1823,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/csi-irwin19-04-2017-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/csi-irwin19-04-2017-5-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1988,7 +1988,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#efefef!important"
             },
             ".btn": {
               "font-family": "'Roboto', sans-serif",
@@ -2030,7 +2030,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Electronic<br>Manufacturing <br>Services</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"procurement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-globe mbr-iconfont mbr-iconfont-btn\"></span>PROCUREMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Turnkey</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>ASSEMBLY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\"></span>TEST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Quality.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Approvals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Inspection Equipment</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"procurement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-globe mbr-iconfont mbr-iconfont-btn\"></span>PROCUREMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sourcing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Turnkey</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>ASSEMBLY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\"></span>TEST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Quality.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Approvals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Inspection Equipment</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -2073,7 +2073,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/csi-meeting-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2198,7 +2198,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#efefef!important"
             },
             ".btn": {
               "font-family": "'Roboto', sans-serif",
@@ -2240,7 +2240,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Electronic<br>Manufacturing <br>Services</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"procurement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-globe mbr-iconfont mbr-iconfont-btn\"></span>PROCUREMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Turnkey</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>ASSEMBLY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\"></span>TEST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Quality.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Approvals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Inspection Equipment</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"procurement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-globe mbr-iconfont mbr-iconfont-btn\"></span>PROCUREMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sourcing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Turnkey</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>ASSEMBLY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\"></span>TEST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Quality.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Approvals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Inspection Equipment</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pcbassembly.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -2270,7 +2270,7 @@
             "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": "0.9",
-            "overlayColor": "#222",
+            "overlayColor": "#7c706b",
             "showTitle": true,
             "showSubTitle": true
           },
