@@ -20,7 +20,7 @@
         "isScrollToTopButton": true
       }
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/csi-site-logo-128x100.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
