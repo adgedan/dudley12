@@ -441,12 +441,24 @@ h6,
 #msg-box6-1x .lead p {
   color: #fff;
 }
+#msg-box6-1x P {
+  color: #553982;
+}
+#msg-box6-1x B {
+  color: #ffffff;
+}
 #msg-box5-1j H3 {
   color: #000000;
 }
 #msg-box6-1y .mbr-section-title,
 #msg-box6-1y .lead p {
   color: #fff;
+}
+#msg-box6-1y P {
+  color: #fac51c;
+}
+#msg-box6-1y B {
+  color: #ffffff;
 }
 #msg-box5-1r H3 {
   color: #000000;

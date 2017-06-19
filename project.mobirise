@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CSI",
-    "currentPage": "procurement.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -282,6 +282,12 @@
           "_styles": {
             ".mbr-section-title, .lead p": {
               "color": "#fff"
+            },
+            "P": {
+              "color": "#553982"
+            },
+            "B": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -333,7 +339,7 @@
             }
           },
           "title": "INTRO WITH BACKGROUND VIDEO",
-          "text": "\"Our surface mount PCB assembly capabilities include BGA, uBGA and flip chip assembly. Wherever possible and practical we use automated assembly processes throughout our manufacturing process to ensure consistent, sustained defect free quality coupled with optimum manufacturing costs.\"",
+          "text": "<b>\"Our surface mount PCB assembly capabilities include BGA, uBGA and flip chip assembly. Wherever possible and practical we use automated assembly processes throughout our manufacturing process to ensure consistent, sustained defect free quality coupled with optimum manufacturing costs.\"</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -399,6 +405,12 @@
           "_styles": {
             ".mbr-section-title, .lead p": {
               "color": "#fff"
+            },
+            "P": {
+              "color": "#fac51c"
+            },
+            "B": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -450,7 +462,7 @@
             }
           },
           "title": "INTRO WITH BACKGROUND VIDEO",
-          "text": "\"Our surface mount PCB assembly capabilities include BGA, uBGA and flip chip assembly. Wherever possible and practical we use automated assembly processes throughout our manufacturing process to ensure consistent, sustained defect free quality coupled with optimum manufacturing costs.\"",
+          "text": "<b>\"Our surface mount PCB assembly capabilities include BGA, uBGA and flip chip assembly. Wherever possible and practical we use automated assembly processes throughout our manufacturing process to ensure consistent, sustained defect free quality coupled with optimum manufacturing costs.\"</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
