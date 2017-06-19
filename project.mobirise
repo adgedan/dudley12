@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CSI",
-    "currentPage": "index.html",
+    "currentPage": "procurement.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -741,7 +741,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.8",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": false,
@@ -904,7 +904,7 @@
             }
           },
           "title": "",
-          "text": "Effective Management of our supply partners and the supply chain is critical to providing a reliable and robust  component supply. we recognise the importance of the procurement process  as a strategic part of our business.<br>Our experienced procurement professionals have a wide range of specialist experience in both the UK and global markets, this experience and the relationships are key to <br>At CSI we employ the latest systems to provide as much accurate and  useful information as possible, modern vendor and material management techniques  optimise and monitor the effectiveness of the Supply Chain and reduce the total cost of ownership:.",
+          "text": "Effective Management of our supply partners and the supply chain is critical to providing a reliable and robust  component supply. we recognise the importance of the procurement process  as a strategic part of our business.<br><br>Our experienced procurement professionals have a wide range of specialist experience in both the UK and global markets, this experience and the relationships are key to us.<br><br>We employ the latest systems to provide as much accurate and  useful information as possible, modern vendor and material management techniques  optimise and monitor the effectiveness of the Supply Chain and reduce the total cost of ownership:.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
