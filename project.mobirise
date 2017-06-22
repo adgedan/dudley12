@@ -89,7 +89,9 @@
           "_name": "msg-box5",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
           "_anchor": "msg-box5-2f",
@@ -297,7 +299,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/quality-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -336,7 +338,7 @@
           },
           "_anchor": "msg-box5-2j",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "57",
             "paddingTop": "2",
             "paddingBottom": "2",
             "parallax": true,
@@ -399,7 +401,7 @@
           },
           "_anchor": "msg-box5-2m",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "55",
             "paddingTop": "2",
             "paddingBottom": "2",
             "parallax": true,
@@ -423,7 +425,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/quality-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/testing3-600x400.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -462,7 +464,7 @@
           },
           "_anchor": "msg-box5-2n",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "56",
             "paddingTop": "2",
             "paddingBottom": "2",
             "parallax": true,
@@ -486,7 +488,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/quality-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/programming-1400x943.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -549,7 +551,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/quality-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-2000x2000.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -588,7 +590,7 @@
           },
           "_anchor": "msg-box5-2q",
           "_params": {
-            "imageSize": "61",
+            "imageSize": "55",
             "paddingTop": "2",
             "paddingBottom": "2",
             "parallax": true,
@@ -612,7 +614,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/quality-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/testing-1400x1141.jpg",
               "link": "",
               "alt": "",
               "title": "",
