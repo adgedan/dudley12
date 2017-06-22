@@ -91,7 +91,8 @@
             "P": {
               "text-align": "left",
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "16px"
             }
           },
           "_anchor": "msg-box5-2f",
@@ -139,7 +140,7 @@
             }
           },
           "title": "About CSI EMS",
-          "text": "At CSIEMS we have considerable experience in electronics manufacturing with a proven ability to understand and interpret our customers ever chaning needs, we offer good value with a focus on quality, technology, engineering and developing long term strategic relationships.<br><br>If you are a design company and are looking for an electronics manufacturer, an organisation considering outsourcing or are contemplating finding a new contract manufacturer please talk to CSI.<br>Our relationships and experience with our suppliers is key to providing a smooth reliable effective and secure supply chain.<br>",
+          "text": "At CSIEMS we have considerable experience in electronics manufacturing with a proven ability to understand and interpret our customers ever chaning needs, we offer good value with a focus on quality, technology, engineering and developing long term strategic relationships.<br><br>If you are a design company and are looking for an electronics manufacturer, an organisation considering outsourcing or are contemplating finding a new contract manufacturer please talk to CSI.&nbsp;Our relationships and experience with our suppliers is key to providing a smooth reliable effective and secure supply chain.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#msg-box5-2l\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -356,7 +357,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -380,7 +381,7 @@
               "size": 0
             }
           },
-          "title": "Surface mount",
+          "title": "Surface Mount",
           "text": "Our surface mount facility enables us to populate a wide range of PCB’s, through both a single or double sided process.&nbsp;With a component feeder inventory in excess of 1000, laser centring and advanced vision recognition, we can handle all the currently available packages from 0201 up to 54mm square including BGA ’s and CSP’s.<br>SMT Production Equipment<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -419,7 +420,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -482,7 +483,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -541,7 +542,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.8",
-            "overlayColor": "#f28281",
+            "overlayColor": "#d14841",
             "inverse": true,
             "showTitle": true,
             "showText": true,
@@ -551,7 +552,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-2000x2000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -608,7 +609,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
