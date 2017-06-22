@@ -7,6 +7,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -453,6 +454,7 @@ h6,
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
 }
 #menu-0 .link {
   font-size: 0.8rem;
