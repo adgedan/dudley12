@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CSI",
-    "currentPage": "services.html",
+    "currentPage": "customercontact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 152,
+    "uniqCompNum": 153,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -877,6 +877,21 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "map1",
+          "_anchor": "map1-48",
+          "_params": {
+            "googleMap": {
+              "address": "CSI EMS",
+              "placeId": "ChIJ5w_cYmHk2EcR9zn7dR8h6Hk",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts1",
           "_styles": {
             "P": {
@@ -1354,7 +1369,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13336.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2016,7 +2031,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13336.jpg",
             "bgColor": "#7c706b",
             "bgColorRadio": true,
             "bgVideo": {
@@ -2079,7 +2094,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13336.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -2142,7 +2157,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13336.jpg",
             "bgColor": "#28324e",
             "bgColorRadio": true,
             "bgVideo": {
@@ -2473,7 +2488,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13336.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
