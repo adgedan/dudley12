@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CSI",
-    "currentPage": "Quality.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -263,7 +263,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Electronic<br>Manufacturing <br>Services</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"pcbassembly.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mdi-action-language mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 23px; color: rgb(255, 255, 255);\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-2v\">PCB ASSEMBLY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2l\">PCB PRODUCTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-33\">PROTOTYPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2n\">NPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2q\">BOX BUILD</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"supply.html\"><span class=\"fa fa-chain mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>SUPPLY CHAIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"testingandinspection.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>TEST &amp; INSPECTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3l\">PCB INSPECTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3n\">AOI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3o\">X-RAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3p\">MICROSCOPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3s\">BESPOKE TESTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3t\">ANALYSIS</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"services.html#msg-box3-47\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px; color: rgb(255, 255, 255);\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-3x\">APPROVALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-44\">INSPECTION EQUIPMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"customercontact.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"pcbassembly.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mdi-action-language mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 23px; color: rgb(255, 255, 255);\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-2v\">PCB ASSEMBLY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2l\">PCB PRODUCTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-33\">PROTOTYPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2n\">NPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2q\">BOX BUILD</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"supply.html\"><span class=\"fa fa-chain mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>SUPPLY CHAIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"testingandinspection.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>TEST &amp; INSPECTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3l\">PCB INSPECTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3n\">AOI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3o\">X-RAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3p\">MICROSCOPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3s\">BESPOKE TESTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3t\">ANALYSIS</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"services.html#msg-box3-47\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-check-square-o mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px; color: rgb(255, 255, 255);\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-3x\">APPROVALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-44\">INSPECTION EQUIPMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"customercontact.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -808,7 +808,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Electronic<br>Manufacturing <br>Services</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"pcbassembly.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mdi-action-language mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 23px; color: rgb(255, 255, 255);\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-2v\">PCB ASSEMBLY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2l\">PCB PRODUCTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-33\">PROTOTYPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2n\">NPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2q\">BOX BUILD</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"supply.html\"><span class=\"fa fa-chain mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>SUPPLY CHAIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"testingandinspection.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>TEST &amp; INSPECTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3l\">PCB INSPECTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3n\">AOI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3o\">X-RAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3p\">MICROSCOPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3s\">BESPOKE TESTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3t\">ANALYSIS</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"services.html#msg-box3-47\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px; color: rgb(255, 255, 255);\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-3x\">APPROVALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-44\">INSPECTION EQUIPMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"customercontact.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"pcbassembly.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mdi-action-language mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 23px; color: rgb(255, 255, 255);\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-2v\">PCB ASSEMBLY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2l\">PCB PRODUCTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-33\">PROTOTYPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2n\">NPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2q\">BOX BUILD</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"supply.html\"><span class=\"fa fa-chain mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>SUPPLY CHAIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"testingandinspection.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>TEST &amp; INSPECTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3l\">PCB INSPECTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3n\">AOI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3o\">X-RAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3p\">MICROSCOPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3s\">BESPOKE TESTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3t\">ANALYSIS</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"services.html#msg-box3-47\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-check-square-o mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px; color: rgb(255, 255, 255);\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-3x\">APPROVALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-44\">INSPECTION EQUIPMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"customercontact.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1369,7 +1369,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2031,7 +2031,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
             "bgColor": "#7c706b",
             "bgColorRadio": true,
             "bgVideo": {
@@ -2094,7 +2094,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -2157,7 +2157,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
             "bgColor": "#28324e",
             "bgColorRadio": true,
             "bgVideo": {
@@ -2488,7 +2488,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2618,6 +2618,10 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
+            "count": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
@@ -2627,11 +2631,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": true,
-            "count": 3,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": true
           },
           "title": "Customer Testimonials",
           "subtitle": "A selection of projects carried out by CSI EMS."
