@@ -718,17 +718,25 @@ h6,
 }
 #msg-box5-2v P {
   text-align: left;
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box5-2v H3 {
   text-align: left;
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box5-33 P {
   text-align: left;
   color: #ffffff;
 }
 #msg-box5-33 H3 {
+  text-align: left;
+  color: #ffffff;
+}
+#msg-box5-49 P {
+  text-align: left;
+  color: #ffffff;
+}
+#msg-box5-49 H3 {
   text-align: left;
   color: #ffffff;
 }
