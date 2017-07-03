@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CSI",
-    "currentPage": "index.html",
+    "currentPage": "services.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -17,7 +17,8 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": true,
+        "isRtl": false
       }
     },
     "favicon": "@PROJECT_PATH@/assets/images/csi-site-logo-128x100.png",
@@ -25,8 +26,8 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 153,
-    "versionPublish": "3.11.1"
+    "uniqCompNum": 154,
+    "versionPublish": "3.12.1"
   },
   "pages": {
     "index.html": {
@@ -263,7 +264,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Electronic<br>Manufacturing <br>Services</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"pcbassembly.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mdi-action-language mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 23px; color: rgb(255, 255, 255);\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-2v\">PCB ASSEMBLY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2l\">PCB PRODUCTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-33\">PROTOTYPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2n\">NPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2q\">BOX BUILD</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"supply.html\"><span class=\"fa fa-chain mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>SUPPLY CHAIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"testingandinspection.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>TEST &amp; INSPECTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3l\">PCB INSPECTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3n\">AOI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3o\">X-RAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3p\">MICROSCOPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3s\">BESPOKE TESTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3t\">ANALYSIS</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"services.html#msg-box3-47\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-check-square-o mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px; color: rgb(255, 255, 255);\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-3x\">APPROVALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-44\">INSPECTION EQUIPMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"customercontact.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"pcbassembly.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mdi-action-language mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 23px; color: rgb(255, 255, 255);\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-2v\">PCB ASSEMBLY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2l\">PCB PRODUCTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-33\">PROTOTYPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2n\">NPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2q\">BOX BUILD</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"supply.html\"><span class=\"fa fa-chain mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>SUPPLY CHAIN</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"testingandinspection.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>TEST &amp; INSPECTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3l\">PCB INSPECTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3n\">AOI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3o\">X-RAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3p\">MICROSCOPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3s\">BESPOKE TESTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3t\">ANALYSIS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"services.html#msg-box3-47\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px; color: rgb(255, 255, 255);\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-3x\">APPROVALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-44\">INSPECTION EQUIPMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"customercontact.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -387,7 +388,7 @@
               "size": 0
             }
           },
-          "title": "Surface Mount",
+          "title": "Surface Mount Assembly",
           "text": "Our surface mount facility enables us to populate a wide range of PCB’s, through both a single or double sided process.&nbsp;With a component feeder inventory in excess of 1000, laser centring and advanced vision recognition, we can handle all the currently available packages from 0201 up to 54mm square including BGA ’s and CSP’s.<br>SMT Production Equipment<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-2l\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -450,7 +451,7 @@
               "size": 0
             }
           },
-          "title": "Mechanical Assembly",
+          "title": "Conventional Assembly",
           "text": "Our surface mount facility enables us to populate a wide range of PCB’s, through both a single or double sided process.&nbsp;With a component feeder inventory in excess of 1000, laser centring and advanced vision recognition, we can handle all the currently available packages from 0201 up to 54mm square including BGA ’s and CSP’s.<br>SMT Production Equipment<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -513,7 +514,7 @@
               "size": 0
             }
           },
-          "title": "Testing",
+          "title": "Test",
           "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Incorporating Automatic Test Equipment (ATE), Functional test, Stress screening, and Boundary/ JTag testing.</span><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -576,7 +577,7 @@
               "size": 0
             }
           },
-          "title": "Off Shore &amp; Logistics",
+          "title": "Logistics Fullfilment &amp; 3PL",
           "text": "Bonded Storage of customers finished goods andglobal shipment of customers orders to end point of use we manage it all. Our partners ATM Electronics in Sofia Bulgaria offer all aspects of electronic and electomechanical production, this relationship enables us where suitable to offer lower cost production whilst maintaining the flexibility of our UK manufacturing facility.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -1154,8 +1155,8 @@
               "size": 0
             }
           },
-          "title": "PCB Assembly",
-          "text": "Our surface mount facility enables us to populate a wide range of PCB’s, through both a single or double sided process.&nbsp;With a component feeder inventory in excess of 1000, laser centring and advanced vision recognition, we can handle all the currently available packages from 0201 up to 54mm square including BGA ’s and CSP’s.<br>SMT Production Equipment<br><br>",
+          "title": "SURFACE MOUNT PCB ASSEMBLY",
+          "text": "Our surface mount facility enables us to populate a wide variety of single and double sided assemblies at high speed and with exacting precision.<br><br>Comprising of 8 individual high performance&nbsp;Juki pick and place machines our three surface mount lines provide huge capacity and flexibility.  We have over 1000 component feeders, laser centring and advanced vision recognition we are able to accurately place all currently available packages from 01005 up to 54mm square.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1217,9 +1218,44 @@
               "size": 0
             }
           },
-          "title": "PCB Production",
-          "text": "Our surface mount facility enables us to populate a wide range of PCB’s, through both a single or double sided process.&nbsp;With a component feeder inventory in excess of 1000, laser centring and advanced vision recognition, we can handle all the currently available packages from 0201 up to 54mm square including BGA ’s and CSP’s.<br>SMT Production Equipment<br><br>",
+          "title": "CONVENTIONAL &amp; MIXED TECHNOLOGY ASSEMBLY",
+          "text": "<br>Not all products are surface mount technology, &nbsp;very few printed circuit board assemblies &nbsp;are entirely surface mount, we manufacture both exclusively through hole and mixed technology PCBA's for a very broad range of applications.<br><br>Our skilled operators are trained to the highest standards of hand soldering and fully undestand the complexities of conventional through hole assembly and are trained to IPC610.<br><br>To ensure regulatory compliance we have seperate leaded and lead-free flow solder machines enabling our processes to be as efficient as possible. &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-49",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "WIRING &amp; ASSEMBLY",
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
         },
         {
           "_tags": [
@@ -1280,8 +1316,8 @@
               "size": 0
             }
           },
-          "title": "Prototypes",
-          "text": "Our surface mount facility enables us to populate a wide range of PCB’s, through both a single or double sided process.&nbsp;With a component feeder inventory in excess of 1000, laser centring and advanced vision recognition, we can handle all the currently available packages from 0201 up to 54mm square including BGA ’s and CSP’s.<br>SMT Production Equipment<br><br>",
+          "title": "PROTOTYPES &amp; FAST TURN",
+          "text": "CSIEMS offer both fast and standard turnaround prototype PCB assembly, we have no minimum order quantity and have the capability to place all surface mount and through hole &nbsp;componants<br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span>•\tNo minimum quantity<br>•\tThru-hole, SMT, and mixed technology assembly<br>•\tNo-clean process<br>•\tSingle and double sided SMT<br>•\tLeaded and lead-free solders<br>•\tSingle or double sided BGA placement<br>•\tChips down to 1005 size <br>•\tComponents up to 54mm sq, <br>•\tLeadless Chip Carriers/CSP/QFN/POP<br>•\tFine Pitch parts to 15 mils<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1343,8 +1379,8 @@
               "size": 0
             }
           },
-          "title": "NPI",
-          "text": "Our surface mount facility enables us to populate a wide range of PCB’s, through both a single or double sided process.&nbsp;With a component feeder inventory in excess of 1000, laser centring and advanced vision recognition, we can handle all the currently available packages from 0201 up to 54mm square including BGA ’s and CSP’s.<br>SMT Production Equipment<br><br>",
+          "title": "NPI - NEW PRODUCT INTRODUCTION",
+          "text": "All of our customers products undergo our NPI process as close to commencement as possible, &nbsp;we consider and evaluate the design, the manufacturability &nbsp;and viability of the product,<br><br>We consider and advise our customers with PCB layout, mechanical assembly and all manuacturing aspects of the product, We use estabished DFM (Design for Manufacture) and DFT (Design for Test) &nbsp;methodology and tools to ensure the product is produced efficiently, economically and consistently, giving our customers best value, excellent quality and on-time products.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1369,7 +1405,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1406,8 +1442,8 @@
               "size": 0
             }
           },
-          "title": "Box Build",
-          "text": "Our surface mount facility enables us to populate a wide range of PCB’s, through both a single or double sided process.&nbsp;With a component feeder inventory in excess of 1000, laser centring and advanced vision recognition, we can handle all the currently available packages from 0201 up to 54mm square including BGA ’s and CSP’s.<br>SMT Production Equipment<br><br>",
+          "title": "BOX BUILD",
+          "text": "Wherever possible it is our aim to provide a fully imtagrated turnkey solution, at CSIEMS we are multi discaplined and have the skilset to bulid our customers complete finished product ready to ship to market<br><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">We are experianced using and specifying Plastic mouldings, Sheet metal Enclosures and castings,</span><br><br>We can assemble complex mechanical systems with embedded electronics, and then functionaly test them&nbsp;<br><br>We provide fast effecient &nbsp;\"one stop shop\" bringing all of the individual elements of the product together whether manufactured by CSIEMS or a partner.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1578,7 +1614,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Electronic<br>Manufacturing <br>Services</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"pcbassembly.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mdi-action-language mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 23px; color: rgb(255, 255, 255);\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-2v\">PCB ASSEMBLY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2l\">PCB PRODUCTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-33\">PROTOTYPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2n\">NPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2q\">BOX BUILD</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"supply.html\"><span class=\"fa fa-chain mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>SUPPLY CHAIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"testingandinspection.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>TEST &amp; INSPECTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3l\">PCB INSPECTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3n\">AOI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3o\">X-RAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3p\">MICROSCOPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3s\">BESPOKE TESTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3t\">ANALYSIS</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"services.html#msg-box3-47\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px; color: rgb(255, 255, 255);\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-3x\">APPROVALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-44\">INSPECTION EQUIPMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"customercontact.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"pcbassembly.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mdi-action-language mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 23px; color: rgb(255, 255, 255);\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-2v\">PCB ASSEMBLY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2l\">PCB PRODUCTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-33\">PROTOTYPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2n\">NPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2q\">BOX BUILD</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"supply.html\"><span class=\"fa fa-chain mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>SUPPLY CHAIN</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"testingandinspection.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>TEST &amp; INSPECTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3l\">PCB INSPECTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3n\">AOI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3o\">X-RAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3p\">MICROSCOPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3s\">BESPOKE TESTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3t\">ANALYSIS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"services.html#msg-box3-47\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-dashboard mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px; color: rgb(255, 255, 255);\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-3x\">APPROVALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-44\">INSPECTION EQUIPMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"customercontact.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_styles": {
@@ -1879,7 +1915,7 @@
               "size": 0
             }
           },
-          "title": "PCB Inspection",
+          "title": "Inspection",
           "text": "Our surface mount facility enables us to populate a wide range of PCB’s, through both a single or double sided process.&nbsp;With a component feeder inventory in excess of 1000, laser centring and advanced vision recognition, we can handle all the currently available packages from 0201 up to 54mm square including BGA ’s and CSP’s.<br>SMT Production Equipment<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -2031,7 +2067,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
             "bgColor": "#7c706b",
             "bgColorRadio": true,
             "bgVideo": {
@@ -2094,7 +2130,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -2157,7 +2193,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
             "bgColor": "#28324e",
             "bgColorRadio": true,
             "bgVideo": {
@@ -2488,7 +2524,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
