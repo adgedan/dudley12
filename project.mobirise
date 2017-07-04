@@ -25,7 +25,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 159,
+    "uniqCompNum": 160,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/Home/Desktop",
     "screenshot": "screenshot.png"
@@ -99,7 +99,7 @@
           },
           "_anchor": "msg-box5-2f",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "51",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
@@ -117,12 +117,13 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
+              "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/testing3-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/csi-entrance-web-1400x739.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -132,8 +133,7 @@
               "src": "https://youtu.be/8Ia1Du7KoYk",
               "aspectratio": "16:9",
               "autoplay": "on",
-              "loop": "on",
-              "active": true
+              "loop": "on"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box5",
@@ -141,7 +141,7 @@
               "size": 0
             }
           },
-          "title": "About CSI EMS",
+          "title": "ABOUT CSIEMS",
           "text": "At CSIEMS we have considerable experience in electronics manufacturing with a proven ability to understand and interpret our customers ever chaning needs, we offer good value with a focus on quality, technology, engineering and developing long term strategic relationships.<br><br>If you are a design company and are looking for an electronics manufacturer, an organisation considering outsourcing or are contemplating finding a new contract manufacturer please talk to CSI.&nbsp;Our relationships and experience with our suppliers is key to providing a smooth reliable effective and secure supply chain.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#msg-box5-2l\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -160,12 +160,12 @@
           "_name": "header3",
           "_anchor": "header3-2k",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgColor": "#3d8eb9",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#000000",
             "showMeta": false
           },
-          "title": "Services available from CMS EMS",
+          "title": "Services available from CSIEMS",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -284,9 +284,9 @@
           },
           "_anchor": "msg-box5-2l",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "imageSize": "47",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
@@ -308,7 +308,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/csi-meeting-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -326,7 +326,7 @@
               "size": 0
             }
           },
-          "title": "Procurement",
+          "title": "PROCUREMENT",
           "text": "Our surface mount facility enables us to populate a wide range of PCB’s, through both a single or double sided process.&nbsp;With a component feeder inventory in excess of 1000, laser centring and advanced vision recognition, we can handle all the currently available packages from 0201 up to 54mm square including BGA ’s and CSP’s.<br>SMT Production Equipment<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -347,9 +347,9 @@
           },
           "_anchor": "msg-box5-2j",
           "_params": {
-            "imageSize": "57",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "imageSize": "46",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/pcb-2000x1334.png",
@@ -410,9 +410,9 @@
           },
           "_anchor": "msg-box5-2m",
           "_params": {
-            "imageSize": "55",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "imageSize": "48",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/assembly-2000x1334.jpg",
@@ -428,7 +428,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -475,7 +475,7 @@
           "_params": {
             "imageSize": "46",
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/soldering-2000x1334.jpg",
@@ -491,7 +491,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -536,9 +536,9 @@
           },
           "_anchor": "msg-box5-2o",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "imageSize": "47",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1141.jpg",
@@ -599,9 +599,9 @@
           },
           "_anchor": "msg-box5-2q",
           "_params": {
-            "imageSize": "55",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "imageSize": "45",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/testing2-2000x1334.jpg",
@@ -613,8 +613,8 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.6",
-            "overlayColor": "#7c706b",
-            "inverse": true,
+            "overlayColor": "#000000",
+            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": false
@@ -646,17 +646,42 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "content2",
-          "_anchor": "content2-2a",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-4f",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
           },
-          "text": "<blockquote>\"We can put something here on the company almost like a famous quote or wording relating to a large project that CSI have achieved and will look good read by a customer. Possibly lists on the types of customer styles.</blockquote>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "title": "CONTACT",
+          "text": "CSIEMS and how we can help you develop you future projects."
         },
         {
           "_tags": [
