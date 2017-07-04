@@ -129,10 +129,10 @@
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/8Ia1Du7KoYk",
               "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false,
+              "autoplay": "on",
+              "loop": "on",
               "active": true
             },
             "iconFont": {
