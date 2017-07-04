@@ -716,6 +716,32 @@ h6,
 #msg-box3-47 p {
   color: #000;
 }
+#features4-4c .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-4c .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-4c H4 {
+  color: #ffffff;
+}
+#features4-4c P {
+  color: #ffffff;
+}
+#features4-4d .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-4d .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-4d H4 {
+  color: #ffffff;
+}
+#features4-4d P {
+  color: #ffffff;
+}
 #msg-box5-2v P {
   text-align: left;
   color: #000000;
@@ -734,11 +760,11 @@ h6,
 }
 #msg-box5-49 P {
   text-align: left;
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box5-49 H3 {
   text-align: left;
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box5-34 P {
   text-align: left;
@@ -750,11 +776,11 @@ h6,
 }
 #msg-box5-35 P {
   text-align: left;
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box5-35 H3 {
   text-align: left;
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box5-36 P {
   text-align: left;
@@ -958,11 +984,11 @@ h6,
 }
 #msg-box5-3s P {
   text-align: left;
-  color: #ffffff;
+  color: #28324e;
 }
 #msg-box5-3s H3 {
   text-align: left;
-  color: #ffffff;
+  color: #475577;
 }
 #msg-box5-3t P {
   text-align: left;
@@ -1059,6 +1085,13 @@ h6,
 #msg-box5-3x H3 {
   text-align: left;
   color: #28324e;
+}
+#msg-box5-3x SPAN {
+  font-size: 24px;
+}
+#msg-box3-4a .mbr-section-title,
+#msg-box3-4a p {
+  color: #000;
 }
 #msg-box5-44 P {
   text-align: left;
