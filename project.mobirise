@@ -275,11 +275,11 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "H3": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_anchor": "msg-box5-2l",
@@ -298,7 +298,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.9",
-            "overlayColor": "#c0a375",
+            "overlayColor": "#ffffff",
             "inverse": true,
             "showTitle": true,
             "showText": true,
@@ -401,11 +401,11 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "H3": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_anchor": "msg-box5-2m",
@@ -423,8 +423,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#f97352",
+            "overlayOpacity": "0.8",
+            "overlayColor": "#ffffec",
             "inverse": true,
             "showTitle": true,
             "showText": true,
