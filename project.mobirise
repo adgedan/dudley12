@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CSI",
-    "currentPage": "services.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -327,7 +327,7 @@
             }
           },
           "title": "PROCUREMENT",
-          "text": "Our surface mount facility enables us to populate a wide range of PCB’s, through both a single or double sided process.&nbsp;With a component feeder inventory in excess of 1000, laser centring and advanced vision recognition, we can handle all the currently available packages from 0201 up to 54mm square including BGA ’s and CSP’s.<br>SMT Production Equipment<br><br>",
+          "text": "Our surface mount facility enables us to populate a wide range of PCB’s, through both a single or double sided process.&nbsp;With a component feeder inventory in excess of 1000, laser centring and advanced vision recognition, we can handle all the currently available packages from 0201 up to 54mm square including BGA ’s and CSP’s and&nbsp;SMT Production Equipment.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -351,17 +351,19 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/pcb-2000x1334.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/8Ia1Du7KoYk?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "overlay": true,
             "overlayOpacity": "0.7",
-            "overlayColor": "#061f93",
+            "overlayColor": "#000000",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -370,18 +372,18 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/suface-mount-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circuit-board-background1-1400x789.jpg",
               "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "video": {
               "src": "https://youtu.be/8Ia1Du7KoYk",
               "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false,
-              "active": true
+              "autoplay": "on",
+              "loop": "on"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box5",
