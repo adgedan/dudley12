@@ -297,7 +297,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
+            "overlayOpacity": "0.5",
             "overlayColor": "#ffffff",
             "inverse": true,
             "showTitle": true,
@@ -308,7 +308,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -389,7 +389,7 @@
               "size": 0
             }
           },
-          "title": "Surface Mount",
+          "title": "SURFACE MOUNT",
           "text": "Our surface mount facility enables us to populate a wide range of PCB’s, through both a single or double sided process.&nbsp;With a component feeder inventory in excess of 1000, laser centring and advanced vision recognition, we can handle all the currently available packages from 0201 up to 54mm square including BGA ’s and CSP’s.<br>SMT Production Equipment<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-2l\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -432,8 +432,9 @@
           },
           "media": {
             "image": {
+              "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/testing3-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/assembly-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -443,8 +444,7 @@
               "src": "https://youtu.be/8Ia1Du7KoYk",
               "aspectratio": "16:9",
               "autoplay": "on",
-              "loop": "on",
-              "active": true
+              "loop": "on"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box5",
@@ -473,8 +473,8 @@
           },
           "_anchor": "msg-box5-2n",
           "_params": {
-            "imageSize": "56",
-            "paddingTop": "2",
+            "imageSize": "46",
+            "paddingTop": "1",
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
@@ -486,8 +486,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#90a878",
+            "overlayOpacity": "0.7",
+            "overlayColor": "#129c25",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -515,7 +515,7 @@
               "size": 0
             }
           },
-          "title": "Testing",
+          "title": "TEST",
           "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Incorporating Automatic Test Equipment (ATE), Functional test, Stress screening, and Boundary/ JTag testing.</span><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -527,11 +527,11 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "H3": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_anchor": "msg-box5-2o",
@@ -549,12 +549,12 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#d14841",
+            "overlayOpacity": "0.4",
+            "overlayColor": "#ffffff",
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -578,7 +578,7 @@
               "size": 0
             }
           },
-          "title": "Off Shore &amp; Logistics",
+          "title": "OFF SHORE &amp; LOGISTICS",
           "text": "Bonded Storage of customers finished goods andglobal shipment of customers orders to end point of use we manage it all. Our partners ATM Electronics in Sofia Bulgaria offer all aspects of electronic and electomechanical production, this relationship enables us where suitable to offer lower cost production whilst maintaining the flexibility of our UK manufacturing facility.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -612,12 +612,12 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#049343",
+            "overlayOpacity": "0.6",
+            "overlayColor": "#7c706b",
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
