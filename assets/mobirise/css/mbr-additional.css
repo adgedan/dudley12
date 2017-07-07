@@ -722,31 +722,11 @@ h6,
 #msg-box3-47 p {
   color: #000;
 }
-#features4-4c .card-subtitle {
-  color: #bcbcbc;
+#msg-box3-47 .lead {
+  text-align: center;
 }
-#features4-4c .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
-}
-#features4-4c H4 {
-  color: #ffffff;
-}
-#features4-4c P {
-  color: #ffffff;
-}
-#features4-4d .card-subtitle {
-  color: #bcbcbc;
-}
-#features4-4d .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
-}
-#features4-4d H4 {
-  color: #ffffff;
-}
-#features4-4d P {
-  color: #ffffff;
+#msg-box3-47 .mbr-section-title {
+  text-align: center;
 }
 #msg-box5-2v P {
   text-align: left;

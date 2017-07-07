@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CSI",
-    "currentPage": "index.html",
+    "currentPage": "services.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 160,
+    "uniqCompNum": 162,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/Home/Desktop",
     "screenshot": "screenshot.png"
@@ -265,7 +265,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Electronic<br>Manufacturing <br>Services</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-puzzle-piece mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 23px; color: rgb(255, 255, 255);\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-2v\">PCB ASSEMBLY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2l\">PCB PRODUCTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-33\">PROTOTYPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2n\">NPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2q\">BOX BUILD</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"supply.html\"><span class=\"fa fa-chain mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>SUPPLY CHAIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"testingandinspection.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>TEST &amp; INSPECTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3l\">PCB INSPECTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3n\">AOI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3o\">X-RAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3p\">MICROSCOPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3s\">BESPOKE TESTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3t\">ANALYSIS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"services.html#msg-box3-47\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-check-square-o mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-3x\">APPROVALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-44\">INSPECTION EQUIPMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"customercontact.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-puzzle-piece mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 23px; color: rgb(255, 255, 255);\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-2v\">PCB ASSEMBLY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2l\">PCB PRODUCTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-33\">PROTOTYPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2n\">NPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2q\">BOX BUILD</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"supply.html\"><span class=\"fa fa-chain mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>SUPPLY CHAIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"testingandinspection.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>TEST &amp; INSPECTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3l\">PCB INSPECTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3n\">AOI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3o\">X-RAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3p\">MICROSCOPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3s\">BESPOKE TESTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3t\">ANALYSIS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"services.html#msg-box3-47\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-check-square-o mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-3x\">APPROVALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-44\">INSPECTION EQUIPMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"customercontact.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1072,13 +1072,19 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Electronic<br>Manufacturing <br>Services</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-puzzle-piece mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 23px; color: rgb(255, 255, 255);\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-2v\">PCB ASSEMBLY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2l\">PCB PRODUCTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-33\">PROTOTYPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2n\">NPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2q\">BOX BUILD</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"supply.html\"><span class=\"fa fa-chain mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>SUPPLY CHAIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"testingandinspection.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>TEST &amp; INSPECTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3l\">PCB INSPECTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3n\">AOI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3o\">X-RAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3p\">MICROSCOPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3s\">BESPOKE TESTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3t\">ANALYSIS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"services.html#msg-box3-47\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-check-square-o mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-3x\">APPROVALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-44\">INSPECTION EQUIPMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"customercontact.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"fa fa-puzzle-piece mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 23px; color: rgb(255, 255, 255);\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-2v\">PCB ASSEMBLY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2l\">PCB PRODUCTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-33\">PROTOTYPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2n\">NPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2q\">BOX BUILD</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"supply.html\"><span class=\"fa fa-chain mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>SUPPLY CHAIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"testingandinspection.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-user-md mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>TEST &amp; INSPECTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3l\">PCB INSPECTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3n\">AOI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3o\">X-RAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3p\">MICROSCOPES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3s\">BESPOKE TESTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"testingandinspection.html#msg-box5-3t\">ANALYSIS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"services.html#msg-box3-47\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"fa fa-check-square-o mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>QUALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-3x\">APPROVALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Quality.html#msg-box5-44\">INSPECTION EQUIPMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"customercontact.html\"><span class=\"fa fa-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_inherit": "msg-box8",
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#000"
+            },
+            ".lead": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
             }
           },
           "_tags": [
@@ -1106,278 +1112,34 @@
             "showButton": false
           },
           "title": "SERVICES FROM CSI EMS",
-          "text": "We offer a wide range of services and need to add some copy here with keywords to enable customers to find the site easily based on products and services you can offer.",
+          "text": "Addressing the following markets. We offer a wide range of services and need to add some copy here with keywords to enable customers to find the site easily based on products and services you can offer.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#f2f2f2",
-              "border-color": "#f2f2f2"
-            },
-            "H4": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "features4",
-          "_anchor": "features4-4c",
+          "_name": "buttons1",
+          "_anchor": "buttons1-4g",
           "_params": {
-            "iconsBgColor": "#f2f2f2",
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#001d89",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
-            "showImages": false,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
           },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "phone",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title1": "SERVICE 1",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title2": "SERVICE 2",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title3": "SERVICE 3",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title4": "SERVICE 4",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">SERVICE 1</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">SERVICE 2</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">SERVICE 3</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">SERVICE 4</a>"
         },
         {
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#f2f2f2",
-              "border-color": "#f2f2f2"
-            },
-            "H4": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "features4",
-          "_anchor": "features4-4d",
+          "_name": "buttons1",
+          "_anchor": "buttons1-4h",
           "_params": {
-            "iconsBgColor": "#f2f2f2",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#001d89",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
-            "showImages": false,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
           },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "phone",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title1": "SERVICE 5",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title2": "SERVICE 6",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title3": "SERVICE 7",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title4": "SERVICE 8",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">SERVICE 5</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">SERVICE 6</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">SERVICE 7</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">SERVICE 8</a>"
         },
         {
           "_tags": [
@@ -1475,7 +1237,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.9",
-            "overlayColor": "#251f96",
+            "overlayColor": "#00176c",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -1529,7 +1291,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/csi-irwin19-04-2017-3-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cables-2000x1500.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1537,7 +1299,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.4",
             "overlayColor": "#ffffff",
             "inverse": true,
             "showTitle": true,
@@ -1566,8 +1328,8 @@
               "size": 0
             }
           },
-          "title": "WIRING &amp; ASSEMBLY",
-          "text": "Copy to go here jf kdasl f kjlf dajkl fjkl<br><br>",
+          "title": "CABLE HARNESSES<br>WIRING AND ASSEMBLY",
+          "text": "Copy to go here&nbsp;Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
