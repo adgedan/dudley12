@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CSI",
-    "currentPage": "services.html",
+    "currentPage": "supply.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1952,17 +1952,17 @@
             "paddingTop": "4",
             "paddingBottom": "2",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/red-circuits-2000x1334.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#c0a375",
+            "overlayOpacity": "0.7",
+            "overlayColor": "#ffffff",
             "inverse": true,
             "showTitle": true,
             "showText": true,
@@ -1972,7 +1972,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/test-as-well-1400x932.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2015,10 +2015,10 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/csi-irwin19-04-2017-2-2000x1334.jpg",
             "bgColor": "#28324e",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -2204,17 +2204,17 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/rework-2000x1315.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#c0a375",
+            "overlayOpacity": "0.7",
+            "overlayColor": "#ffffff",
             "inverse": true,
             "showTitle": true,
             "showText": true,
@@ -2224,7 +2224,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/testing-1400x1141.jpg",
+              "src": "@PROJECT_PATH@/assets/images/test-man-1400x932.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2393,8 +2393,8 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-43",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "2",
+            "paddingTop": "3",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
