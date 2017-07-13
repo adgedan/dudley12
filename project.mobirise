@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CSI",
-    "currentPage": "supply.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -308,7 +308,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/csi-meeting-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/proc-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -348,8 +348,8 @@
           "_anchor": "msg-box5-2j",
           "_params": {
             "imageSize": "46",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/pcb-2000x1334.png",
@@ -372,7 +372,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/circuit-board-background1-1400x789.jpg",
+              "src": "@PROJECT_PATH@/assets/images/surface-mount-assembly-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -413,8 +413,8 @@
           "_anchor": "msg-box5-2m",
           "_params": {
             "imageSize": "49",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/csi-irwin19-04-2017-4-2000x1334.jpg",
@@ -436,7 +436,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/csi-irwin19-04-2017-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mechanical-assembly-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -476,11 +476,11 @@
           "_anchor": "msg-box5-2n",
           "_params": {
             "imageSize": "46",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/testing2-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/test-man-2000x1332.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -489,7 +489,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.7",
-            "overlayColor": "#129c25",
+            "overlayColor": "#000000",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -499,7 +499,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/programming-1400x943.jpg",
+              "src": "@PROJECT_PATH@/assets/images/testing-equipment-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -518,7 +518,7 @@
             }
           },
           "title": "TEST",
-          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Incorporating Automatic Test Equipment (ATE), Functional test, Stress screening, and Boundary/ JTag testing.</span><br><br>",
+          "text": "<p>Whatever your product, whatever the quantity produced, we will help you find the best and most cost-effective test strategy. For high volume and<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">in-depth checking, we have a range of both functional and in-circuit ATE to give maximum confidence with minimum test time. We can also provide complete turnkey test systems for your product, whether tested on ATE or not.&nbsp;Our test facility is staffed by experienced test engineers who will test your product, using a comprehensive and up-to-date range of equipment. We also offer a third party test and repair service for your products in the field, with guaranteed turnaround times. Whatever the product we offer a test solution to suit.</span></p><p><br>‣&nbsp;&nbsp;&nbsp;&nbsp;Automatic Test Facilities<br>‣    Boundary Scan- Jtag. Standard IEEE Std 1149.1<br>‣    Design and Manufacture of Custom Test Fixtures<br>‣    Measurement Instrumentation<br>‣    Stimulus Generation Instrumentation<br>‣    Function Specific Test Equipment<br>‣    Programming of Memory, PLD &amp; Micro controllers.<br>‣    Fault-Finding and Repair.<br><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"testingandinspection.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -539,11 +539,11 @@
           "_anchor": "msg-box5-2o",
           "_params": {
             "imageSize": "47",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1141.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/american-highway-2000x1498.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -551,7 +551,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0.7",
             "overlayColor": "#ffffff",
             "inverse": true,
             "showTitle": true,
@@ -562,7 +562,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/led-main-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -580,7 +580,7 @@
               "size": 0
             }
           },
-          "title": "OFF SHORE &amp; LOGISTICS",
+          "title": "LED",
           "text": "Bonded Storage of customers finished goods andglobal shipment of customers orders to end point of use we manage it all. Our partners ATM Electronics in Sofia Bulgaria offer all aspects of electronic and electomechanical production, this relationship enables us where suitable to offer lower cost production whilst maintaining the flexibility of our UK manufacturing facility.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"supply.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -862,7 +862,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/csi-entrance-web-2000x1055.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/csi-night-shots-2000x1334.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
@@ -1159,8 +1159,8 @@
           "_anchor": "msg-box5-2v",
           "_params": {
             "imageSize": "56",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/circuit%20board%20background1-2000x1128.jpg",
@@ -1173,7 +1173,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.8",
             "overlayColor": "#efefef",
             "inverse": true,
             "showTitle": true,
@@ -1184,7 +1184,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/circuit-board-background1-1400x789.jpg",
+              "src": "@PROJECT_PATH@/assets/images/surface-mount-assembly-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1224,8 +1224,8 @@
           "_anchor": "msg-box5-33",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/surface-mount1-2000x1512.jpg",
@@ -1247,7 +1247,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/pth-1400x919.jpg",
+              "src": "@PROJECT_PATH@/assets/images/conventional&mixed_assembly-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1287,8 +1287,8 @@
           "_anchor": "msg-box5-49",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/csi-irwin19-04-2017-5-2000x1334.jpg",
@@ -1299,7 +1299,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0.6",
             "overlayColor": "#ffffff",
             "inverse": true,
             "showTitle": true,
@@ -1310,7 +1310,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/wires-1400x934.png",
+              "src": "@PROJECT_PATH@/assets/images/cable-harness-and-assembly-1400x934.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1480,7 +1480,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/red-circuits-2000x1334.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
