@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CSI",
-    "currentPage": "index.html",
+    "currentPage": "services.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1228,7 +1228,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/surface-mount1-2000x1512.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/factory2-2000x1334.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1236,7 +1236,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
+            "overlayOpacity": "0.7",
             "overlayColor": "#00176c",
             "inverse": false,
             "showTitle": true,
