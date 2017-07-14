@@ -7,7 +7,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -424,10 +423,17 @@ h6,
   text-align: center;
   font-size: 25px;
 }
-#msg-box5-2f P {
+#msg-box8-4p .mbr-section-title,
+#msg-box8-4p p {
+  color: #fff;
+}
+#msg-box8-4p .mbr-section-title {
   text-align: left;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
+  color: #000000;
+}
+#msg-box8-4p .lead P {
+  text-align: left;
+  color: #000000;
 }
 #header3-4l .mbr-section-title,
 #header3-4l .mbr-section-subtitle {
@@ -516,29 +522,37 @@ h6,
   text-align: left;
   color: #ffffff;
 }
-#msg-box5-2m P {
+#msg-box5-4n P {
   text-align: left;
   color: #000000;
+}
+#msg-box5-4n H3 {
+  text-align: left;
+  color: #000000;
+}
+#msg-box5-2m P {
+  text-align: left;
+  color: #ffffff;
 }
 #msg-box5-2m H3 {
   text-align: left;
-  color: #000000;
+  color: #ffffff;
 }
 #msg-box5-2n P {
   text-align: left;
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box5-2n H3 {
   text-align: left;
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box5-4m P {
   text-align: left;
-  color: #000000;
+  color: #ffffff;
 }
 #msg-box5-4m H3 {
   text-align: left;
-  color: #000000;
+  color: #ffffff;
 }
 #msg-box2-4f .mbr-section-title {
   color: #000000;
@@ -1070,6 +1084,12 @@ h6,
 }
 #msg-box5-3x SPAN {
   font-size: 24px;
+}
+#slider3-4o H2 {
+  text-align: left;
+}
+#slider3-4o P {
+  text-align: left;
 }
 #msg-box5-4i P {
   text-align: left;
