@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CSI",
-    "currentPage": "Quality.html",
+    "currentPage": "testingandinspection.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 166,
+    "uniqCompNum": 167,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/Home/Desktop",
     "screenshot": "screenshot.png"
@@ -516,7 +516,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -541,7 +541,7 @@
             }
           },
           "title": "TEST",
-          "text": "<p>Whatever your product, whatever the quantity produced, we will help you find the best and most cost-effective test strategy. For high volume and<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">in-depth checking, we have a range of both functional and in-circuit ATE to give maximum confidence with minimum test time. We can also provide complete turnkey test systems for your product, whether tested on ATE or not.&nbsp;Our test facility is staffed by experienced test engineers who will test your product, using a comprehensive and up-to-date range of equipment. We also offer a third party test and repair service for your products in the field, with guaranteed turnaround times. Whatever the product we offer a test solution to suit.</span></p><p><br>‣&nbsp;&nbsp;&nbsp;&nbsp;Automatic Test Facilities<br>‣    Boundary Scan- Jtag. Standard IEEE Std 1149.1<br>‣    Design and Manufacture of Custom Test Fixtures<br>‣    Measurement Instrumentation<br>‣    Stimulus Generation Instrumentation<br>‣    Function Specific Test Equipment<br>‣    Programming of Memory, PLD &amp; Micro controllers.<br>‣    Fault-Finding and Repair.<br><br></p>",
+          "text": "<p>Whatever your product, whatever the quantity produced, we will help you find the best and most cost-effective test strategy. For high volume and<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">in-depth checking, we have a range of both functional and in-circuit ATE to give maximum confidence with minimum test time. We can also provide complete turnkey test systems for your product, whether tested on ATE or not.&nbsp;Our test facility is staffed by experienced test engineers who will test your product, using a comprehensive and up-to-date range of equipment. We also offer a third party test and repair service for your products in the field, with guaranteed turnaround times. Whatever the product we offer a test solution to suit.</span></p><p>‣&nbsp;&nbsp;&nbsp;&nbsp;Automatic Test Facilities<br>‣    Boundary Scan- Jtag. Standard IEEE Std 1149.1<br>‣    Design and Manufacture of Custom Test Fixtures<br>‣    Measurement Instrumentation<br>‣    Stimulus Generation Instrumentation<br>‣    Function Specific Test Equipment<br>‣    Programming of Memory, PLD &amp; Micro controllers.<br>‣    Fault-Finding and Repair.<br><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"testingandinspection.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -559,14 +559,14 @@
               "color": "#000000"
             }
           },
-          "_anchor": "msg-box5-2o",
+          "_anchor": "msg-box5-4m",
           "_params": {
-            "imageSize": "47",
+            "imageSize": "45",
             "paddingTop": "2",
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/car%20led's-2000x1320.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/car-leds-2000x1196.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -574,7 +574,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.6",
             "overlayColor": "#ffffff",
             "inverse": true,
             "showTitle": true,
@@ -585,7 +585,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/led-main-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/leds-1400x932.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -604,70 +604,7 @@
             }
           },
           "title": "LED",
-          "text": "Bonded Storage of customers finished goods andglobal shipment of customers orders to end point of use we manage it all. Our partners ATM Electronics in Sofia Bulgaria offer all aspects of electronic and electomechanical production, This relationship enables us where suitable to offer lower cost production whilst maintaining the flexibility of our UK manufacturing facility.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"supply.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "color": "#ffffff"
-            },
-            "H3": {
-              "text-align": "left",
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "msg-box5-2q",
-          "_params": {
-            "imageSize": "45",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/testing2-2000x1334.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#000000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-3-1400x933.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "QUALITY",
-          "text": "IPC-A-610D certification is used as the minimum standard for all of our manufacturing activities.&nbsp;In-House IPC instructor thereby ensuring the quality requirements dictated by IPC-A-610 are implemented throughout all applicable areas of the manufacturing process.<br><br>Ensuring our team fully understand the needs and expectations of our customers, thus ensuring their input is crucial in meeting and where possible exceeding these requirements.&nbsp;Utilising to the full our Software and Systems, by ensuring that effective process controls are implemented where necessary, and performance data is used to ensure continued quality performance, and ongoing improvement.<br>",
+          "text": "Bonded Storage of customers finished goods andglobal shipment of customers orders to end point of use we manage it all. Our partners ATM Electronics in Sofia Bulgaria offer all aspects of electronic and electomechanical production, This relationship enables us where suitable to offer lower cost production whilst maintaining the flexibility of our UK manufacturing facility.<br><br>electomechanical production, This relationship enables us where suitable to offer lower cost production whilst maintaining the flexibility of our UK manufacturing facility.<br>            ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"Quality.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1494,11 +1431,11 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             "H3": {
               "text-align": "left",
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "46px"
             }
           },
@@ -1508,10 +1445,10 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/red%20circuits-2000x1334.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/box-build-background-2000x1415.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -2127,7 +2064,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/x-ray-chip-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/x-ray-chip-1400x1050.png",
               "link": "",
               "alt": "",
               "title": "",
