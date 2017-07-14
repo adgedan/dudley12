@@ -735,6 +735,7 @@ h6,
 #msg-box5-2v H3 {
   text-align: left;
   color: #000000;
+  font-size: 46px;
 }
 #msg-box5-33 P {
   text-align: left;
@@ -743,6 +744,7 @@ h6,
 #msg-box5-33 H3 {
   text-align: left;
   color: #ffffff;
+  font-size: 46px;
 }
 #msg-box5-49 P {
   text-align: left;
@@ -751,6 +753,7 @@ h6,
 #msg-box5-49 H3 {
   text-align: left;
   color: #000000;
+  font-size: 46px;
 }
 #msg-box5-34 P {
   text-align: left;
@@ -759,6 +762,7 @@ h6,
 #msg-box5-34 H3 {
   text-align: left;
   color: #ffffff;
+  font-size: 46px;
 }
 #msg-box5-35 P {
   text-align: left;
@@ -767,6 +771,7 @@ h6,
 #msg-box5-35 H3 {
   text-align: left;
   color: #000000;
+  font-size: 46px;
 }
 #msg-box5-36 P {
   text-align: left;
@@ -775,6 +780,7 @@ h6,
 #msg-box5-36 H3 {
   text-align: left;
   color: #ffffff;
+  font-size: 46px;
 }
 #contacts1-32 P {
   font-size: 11px;
@@ -1073,6 +1079,17 @@ h6,
   color: #28324e;
 }
 #msg-box5-3x SPAN {
+  font-size: 24px;
+}
+#msg-box5-4i P {
+  text-align: left;
+  color: #28324e;
+}
+#msg-box5-4i H3 {
+  text-align: left;
+  color: #28324e;
+}
+#msg-box5-4i SPAN {
   font-size: 24px;
 }
 #msg-box3-4a .mbr-section-title,

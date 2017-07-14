@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CSI",
-    "currentPage": "services.html",
+    "currentPage": "Quality.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 162,
+    "uniqCompNum": 163,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/Home/Desktop",
     "screenshot": "screenshot.png"
@@ -1153,7 +1153,8 @@
             },
             "H3": {
               "text-align": "left",
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "46px"
             }
           },
           "_anchor": "msg-box5-2v",
@@ -1218,7 +1219,8 @@
             },
             "H3": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "46px"
             }
           },
           "_anchor": "msg-box5-33",
@@ -1281,12 +1283,13 @@
             },
             "H3": {
               "text-align": "left",
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "46px"
             }
           },
           "_anchor": "msg-box5-49",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "57",
             "paddingTop": "2",
             "paddingBottom": "2",
             "parallax": true,
@@ -1328,7 +1331,7 @@
               "size": 0
             }
           },
-          "title": "CABLE HARNESSES<br>WIRING AND ASSEMBLY",
+          "title": "CABLE HARNESSES<br>WIRING &amp; ASSEMBLY",
           "text": "Copy to go here&nbsp;Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here Copy to go here<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -1344,7 +1347,8 @@
             },
             "H3": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "46px"
             }
           },
           "_anchor": "msg-box5-34",
@@ -1407,7 +1411,8 @@
             },
             "H3": {
               "text-align": "left",
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "46px"
             }
           },
           "_anchor": "msg-box5-35",
@@ -1417,7 +1422,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/red-circuit-boards-2000x1415.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/npi-product-array-bground-2000x1459.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1470,7 +1475,8 @@
             },
             "H3": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "46px"
             }
           },
           "_anchor": "msg-box5-36",
@@ -1953,7 +1959,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/red-circuits-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/test-man-2000x1332.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2024,8 +2030,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#28324e",
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000000",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -2078,17 +2084,17 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/csi-irwin19-04-2017-2000x1334.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ciruit-testing-2000x1240.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#00a885",
+            "overlayOpacity": "0.8",
+            "overlayColor": "#ffffff",
             "inverse": true,
             "showTitle": true,
             "showText": true,
@@ -2141,17 +2147,17 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
-            "bgColor": "#7c706b",
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/logistics-possibly2-2000x1334.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#faaf40",
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -2267,17 +2273,17 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/testing2-2000x1334.jpg",
             "bgColor": "#28324e",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#28324e",
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000000",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -2558,7 +2564,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/assembly-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/equipment-1400x1129.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2577,7 +2583,73 @@
             }
           },
           "title": "",
-          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Approvals/Accreditations</b></span><br>At CSIEMS we continually succeed to create products of the highest quality.  In recognition of our continued commitment to advance, we are proud to have been awarded the following accreditations:<br><br><b>ISO 9001:2008</b><br>The international standard recognising management, verification and continuing commitment to quality management processes.<br><br><b>ISO 13485 Named Manufacturer</b><br>The international standard, specifically for medical devices, recognising management, verification and continuing commitment to quality management process, traceability and patient safety. CSIEMS is the nominated manufacturer for our medical device customers.<br><br><b>UL Approval</b><br>Approved for the manufacture of UL marked units sold in the Americas. <br><br><b>IPC-A-610 CIT/CIS </b><br>The electronics industry standard for the acceptability of electronic assemblies.  Our on site IPC CIT is trained to the latest revision of IPC-A-610 ensuring that all CIS’s regularly have their training refreshed.<br>In addition to specific customer approvals, CSIEMS holds a number of third party approvals, demonstrating the company’s ability to achieve and maintain internationally recognised standards<br>",
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Approvals/Accreditations</b></span><br>At CSIEMS we continually succeed to create products of the highest quality.  In recognition of our continued commitment to advance, we are proud to have been awarded the following accreditations:<br><br><b>ISO 9001:2008</b><br>The international standard recognising management, verification and continuing commitment to quality management processes.<br><br><b>ISO 13485 Named Manufacturer</b><br>The international standard, specifically for medical devices, recognising management, verification and continuing commitment to quality management process, traceability and patient safety. CSIEMS is the nominated manufacturer for our medical device customers.<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#28324e"
+            },
+            "H3": {
+              "text-align": "left",
+              "color": "#28324e"
+            },
+            "SPAN": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "msg-box5-4i",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/Home/AppData/Local/Mobirise.com/Mobirise/projectData/csi-irwin19-04-2017-2000x1334.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#00a885",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/accreditations-1400x266.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "",
+          "text": "<b>UL Approval</b><br>Approved for the manufacture of UL marked units sold in the Americas. <br><br><b>IPC-A-610 CIT/CIS</b> <br>The electronics industry standard for the acceptability of electronic assemblies. Our on site IPC CIT is trained to the latest revision of IPC-A-610 ensuring that all CIS’s regularly have their training refreshed.<br>In addition to specific customer approvals, CSIEMS holds a number of third party approvals, demonstrating the company’s ability to achieve and maintain internationally recognised standards<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
