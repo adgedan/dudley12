@@ -2588,7 +2588,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/aobackground-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/csi-night-shots-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2675,77 +2675,6 @@
           "title": "",
           "text": "<b>UL Approval</b><br>Approved for the manufacture of UL marked units sold in the Americas. <br><br><b>IPC-A-610 CIT/CIS</b> <br>The electronics industry standard for the acceptability of electronic assemblies. Our on site IPC CIT is trained to the latest revision of IPC-A-610 ensuring that all CIS’s regularly have their training refreshed.<br>In addition to specific customer approvals, CSIEMS holds a number of third party approvals, demonstrating the company’s ability to achieve and maintain internationally recognised standards<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "testimonial": [
-            {
-              "text": "<p>“Before asking for testimonials, you need to deliver massive value in with your email marketing. And part of that includes sending the right emails to the right customers at the right time.</p><p>We’ve scoured the Interweb (and our inboxes) and put together 11 marketing emails you can swipe so you can start getting more opens and click-throughs for your campaigns today. &nbsp;”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Abanoub S.",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p>“Before asking for testimonials, you need to deliver massive value in with your email marketing. And part of that includes sending the right emails to the right customers at the right time.</p><p>We’ve scoured the Interweb (and our inboxes) and put together 11 marketing emails you can swipe so you can start getting more opens and click-throughs for your campaigns today. &nbsp;.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Suffian A.",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p>“Before asking for testimonials, you need to deliver massive value in with your email marketing. And part of that includes sending the right emails to the right customers at the right time.</p><p>We’ve scoured the Interweb (and our inboxes) and put together 11 marketing emails you can swipe so you can start getting more opens and click-throughs for your campaigns today. &nbsp;.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Jhollman C.",
-              "authorBio": "User"
-            }
-          ],
-          "_anchor": "testimonials1-45",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "count": 3,
-            "showImages": true,
-            "showName": true,
-            "showBio": true,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true
-          },
-          "title": "Customer Testimonials",
-          "subtitle": "A selection of projects carried out by CSI EMS."
         },
         {
           "_tags": [
