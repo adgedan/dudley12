@@ -429,12 +429,9 @@ h6,
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
 }
-#header3-2k .mbr-section-title,
-#header3-2k .mbr-section-subtitle {
+#header3-4l .mbr-section-title,
+#header3-4l .mbr-section-subtitle {
   text-align: center;
-}
-#header3-2k H3 {
-  color: #ffffff;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -775,11 +772,11 @@ h6,
 }
 #msg-box5-36 P {
   text-align: left;
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box5-36 H3 {
   text-align: left;
-  color: #ffffff;
+  color: #000000;
   font-size: 46px;
 }
 #contacts1-32 P {
@@ -999,9 +996,10 @@ h6,
 
 
 
-#msg-box3-43 .mbr-section-title,
-#msg-box3-43 p {
-  color: #000;
+#content8-46 .mbr-section-title,
+#content8-46 p {
+  text-align: right;
+  color: #fff;
 }
 #menu-3u .hide-buttons .nav-btn {
   display: none !important;
@@ -1091,23 +1089,6 @@ h6,
 }
 #msg-box5-4i SPAN {
   font-size: 24px;
-}
-#msg-box3-4a .mbr-section-title,
-#msg-box3-4a p {
-  color: #000;
-}
-#msg-box5-44 P {
-  text-align: left;
-  color: #ffffff;
-}
-#msg-box5-44 H3 {
-  text-align: left;
-  color: #ffffff;
-}
-#content8-46 .mbr-section-title,
-#content8-46 p {
-  text-align: right;
-  color: #fff;
 }
 #contacts1-42 P {
   font-size: 11px;
