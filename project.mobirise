@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CSI",
-    "currentPage": "index.html",
+    "currentPage": "services.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -308,7 +308,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/purchasing-1400x1710.jpg",
+              "src": "@PROJECT_PATH@/assets/images/purchasing-1400x1710.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -425,7 +425,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.8",
             "overlayColor": "#ffffec",
             "inverse": true,
             "showTitle": true,
@@ -614,7 +614,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
             "inverse": false,
             "showTitle": true,
@@ -1126,7 +1126,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">SERVICE 1</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">SERVICE 2</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">SERVICE 3</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">SERVICE 4</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"services.html#msg-box5-2v\" data-toolbar=\"-mbrBtnMove\">SERVICE 1</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"services.html#msg-box5-33\" data-toolbar=\"-mbrBtnMove\">SERVICE 2</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"services.html#msg-box5-49\" data-toolbar=\"-mbrBtnMove\">SERVICE 3</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"services.html#msg-box5-34\" data-toolbar=\"-mbrBtnMove\">SERVICE 4</a>"
         },
         {
           "_tags": [
@@ -1139,7 +1139,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">SERVICE 5</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">SERVICE 6</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">SERVICE 7</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">SERVICE 8</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"services.html#msg-box5-34\" data-toolbar=\"-mbrBtnMove\">SERVICE 5</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"services.html#msg-box5-35\" data-toolbar=\"-mbrBtnMove\">SERVICE 6</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"services.html#msg-box5-36\" data-toolbar=\"-mbrBtnMove\">SERVICE 7</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"services.html#content2-31\" data-toolbar=\"-mbrBtnMove\">SERVICE 8</a>"
         },
         {
           "_tags": [
@@ -1417,7 +1417,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/csi-irwin19-04-2017-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/red-circuit-boards-2000x1415.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
