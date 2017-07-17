@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CSI",
-    "currentPage": "customercontact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -123,7 +123,7 @@
             "showButton": false
           },
           "title": "ABOUT CSIEMS",
-          "text": "<p>CSIEMS are a leading Contract Electronic Manufacturing organization based in the UK. We have considerable experience and understanding of a diverse range of technologies; from the manufacturing of simple devices and electronic assemblies through to complex cutting edge innovative products. The Leader ship team and colleagues are focused on best practise by maintaining quality, efficiency and value giving our customers a competitive advantage</p><p>&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">As an organization CSIEMS prides itself in our customer service and levels of customer satisfaction, we trade ethically with an environmentally aware approach and are committed to having open honest and transparent relationships with all of our partners.</span></p>",
+          "text": "<p>CSIEMS are a leading Contract Electronic Manufacturing organization based in the UK. We have considerable experience and understanding of a diverse range of technologies; from the manufacturing of simple devices and electronic assemblies through to complex cutting edge innovative products. The leadership team and colleagues are focused on best practise by maintaining quality, efficiency and value giving our customers a competitive advantage</p><p>&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">As an organization CSIEMS prides itself in our customer service and levels of customer satisfaction, we trade ethically with an environmentally aware approach and are committed to having open honest and transparent relationships with all of our partners.</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
