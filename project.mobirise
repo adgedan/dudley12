@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CSI",
-    "currentPage": "index.html",
+    "currentPage": "customercontact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 176,
+    "uniqCompNum": 178,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/Home/Desktop",
     "screenshot": "screenshot.png"
@@ -911,6 +911,11 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#28324e"
+            }
+          },
           "_anchor": "msg-box1-4v",
           "_params": {
             "paddingTop": "1",
@@ -934,27 +939,32 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://form.jotformeu.com/adgedan/employment-application-form\" data-toolbar=\"-mbrBtnMove\">SUBMIT YOUR CV</a>",
           "text": "If you feel you have the right properties to work at CSIEMS please submit your CV for any vacancies that may be available.",
-          "title": "C.V. Applications",
-          "_styles": {
-            "H2": {
-              "color": "#28324e"
-            }
-          }
+          "title": "C.V. Applications"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "map1",
-          "_anchor": "map1-48",
-          "_params": {
-            "googleMap": {
-              "address": "CSI EMS",
-              "placeId": "ChIJ5w_cYmHk2EcR9zn7dR8h6Hk",
-              "state": "ok",
-              "stateDetails": ""
+          "_name": "image1",
+          "_anchor": "image1-4x",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/map-1400x408.jpg",
+              "width": 1400,
+              "link": "https://www.google.com/maps/place/CSI+Electronic+Manufacturing+Services+Ltd/@51.803365,0.649601,16z/data=!4m5!3m4!1s0x0:0x79e8211f75fb39f7!8m2!3d51.803365!4d0.649601?hl=en-GB",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
-          }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "CSI EMS 3N Moss Rd, Witham CM8 3UW"
         },
         {
           "_tags": [
