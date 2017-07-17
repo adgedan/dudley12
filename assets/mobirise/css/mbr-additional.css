@@ -439,6 +439,12 @@ h6,
 #header3-4l .mbr-section-subtitle {
   text-align: center;
 }
+#buttons1-4j .btn {
+  font-size: 10px;
+}
+#buttons1-4k .btn {
+  font-size: 10px;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
