@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CSI",
-    "currentPage": "services.html",
+    "currentPage": "Quality.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2614,7 +2614,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/assemblyslider-2000x795.jpg",
+                "image": "@PROJECT_PATH@/assets/images/led-slide-2000x795.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2684,7 +2684,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/laserslider-2000x795.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screen-label-2000x795.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
