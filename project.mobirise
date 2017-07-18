@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CSI",
-    "currentPage": "index.html",
+    "currentPage": "services.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 178,
+    "uniqCompNum": 179,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/Home/Desktop",
     "screenshot": "screenshot.png"
@@ -595,7 +595,7 @@
             }
           },
           "title": "TEST",
-          "text": "<p>SWAP TEST OVER TO THER ONE.</p><br><p>Our engineers will help you find the best and most cost-effective test strategy, At&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">CSIEMS we have a range of both functional and in-circuit ATE test systems to&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">give maximum confidence with minimum cycle time. We are able to provide&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">complete turnkey test systems for your products or use your existing systems&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">and set up.&nbsp;Our test facility is staffed by experienced test engineers who will test</span><br><br>your product, using a comprehensive and up-to- date range of equipment.<br><br>‣&nbsp;&nbsp;Automatic Test Facilities<br>‣ Boundary Scan<br>‣ Design and Manufacture of Custom Test Fixtures<br>‣ Measurement Instrumentation<br>‣ Stimulus Generation Instrumentation<br>‣ Function Specific Test Equipment<br>‣ Programming of Memory, PLD &amp; Micro controllers.<br>‣ Fault-Finding and Repair<br></p><p><br></p>",
+          "text": "<p>Our fully equipped Test Department have considerable experience in product testing, fault finding and hardware test design. From high voltage flash testing to full functional program and test enclosures, we have the ability to cater for any customer needs.</p><br><p><br></p><p><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"testingandinspection.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -620,7 +620,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/car-leds-2000x1196.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/led2-2000x1313.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1508,18 +1508,17 @@
             },
             "H3": {
               "text-align": "left",
-              "color": "#ffffff",
-              "font-size": "46px"
+              "color": "#ffffff"
             }
           },
-          "_anchor": "msg-box5-36",
+          "_anchor": "msg-box5-4y",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "47",
             "paddingTop": "2",
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/box-build-background-2000x1415.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/box-use2-2000x1364.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1557,7 +1556,7 @@
             }
           },
           "title": "BOX BUILD",
-          "text": "Wherever possible it is our aim to provide a fully imtagrated turnkey solution, at CSIEMS we are multi discaplined and have the skilset to bulid our customers complete finished product ready to ship to market<br><br>We are experianced using and specifying Plastic mouldings, Sheet metal Enclosures and castings,&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">We can assemble complex mechanical systems with embedded electronics, and then functionaly test them.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">We provide fast effecient  \"one stop shop\" bringing all of the individual elements of the product together whether manufactured by CSIEMS or a partner.</span><br>",
+          "text": "Wherever possible it is our aim to provide a fully imtagrated turnkey solution, at CSIEMS we are multi discaplined and have the skilset to bulid our customers complete finished product ready to ship to market<br><br>We are experianced using and specifying Plastic mouldings, Sheet metal Enclosures and castings, We can assemble complex mechanical systems with embedded electronics, and then functionaly test them. We provide fast effecient \"one stop shop\" bringing all of the individual elements of the product together whether manufactured by CSIEMS or a partner.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -2269,7 +2268,7 @@
             }
           },
           "title": "TEST",
-          "text": "Our fully equipped Test Department have considerable experience in product testing, fault finding and hardware test design.  From high voltage flash testing to full functional program and test enclosures, we have the ability to cater for any customer needs.<br><br>",
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Our engineers will help you find the best and most cost-effective test strategy, At CSIEMS we have a range of both functional and in-circuit ATE test systems to give maximum confidence with minimum cycle time. We are able to provide complete turnkey test systems for your products or use your existing systems and set up. Our test facility is staffed by experienced test engineers who will test</span><br><br>your product, using a comprehensive and up-to- date range of equipment.<br><br>‣  Automatic Test Facilities<br>‣ Boundary Scan<br>‣ Design and Manufacture of Custom Test Fixtures<br>‣ Measurement Instrumentation<br>‣ Stimulus Generation Instrumentation<br>‣ Function Specific Test Equipment<br>‣ Programming of Memory, PLD &amp; Micro controllers.<br>‣ Fault-Finding and Repair<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
