@@ -480,11 +480,11 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             "H3": {
               "text-align": "left",
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_anchor": "msg-box5-57",
@@ -494,7 +494,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rework-background-2000x922.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -503,7 +503,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.5",
-            "overlayColor": "#ffffff",
+            "overlayColor": "#000000",
             "inverse": true,
             "showTitle": true,
             "showText": true,
@@ -513,7 +513,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/supply-chain-main-1400x963.jpg",
+              "src": "@PROJECT_PATH@/assets/images/rework-insert-1400x1034.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -658,7 +658,7 @@
             }
           },
           "title": "TEST",
-          "text": "<p>The skilled engineers at our fully equipped test facility have considerable experience in product testing, fault finding and hardware test design. We have a wide variety of test equipment from simple high voltage flash testing to ATE in circuit testing to fully functional program and custom test fixtures and enclosures, we have the ability to cater for a wide range of customer needs Including intermediate and end of line testing.<br><br>Ensuring confidence that the products built at CSIEMS meet customers specification and performance expectations.<br></p><br><p><br></p><p><br></p>",
+          "text": "<p>The skilled engineers at our fully equipped test facility have considerable experience in product testing, fault finding and hardware test design. We have a wide variety of test equipment from simple high voltage flash testing to ATE in circuit testing to fully functional program and custom test fixtures and enclosures, we have the ability to cater for a wide range of customer needs Including intermediate and end of line testing.<br><br>Ensuring confidence that the products built at CSIEMS meet customers specification and performance expectations.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"testingandinspection.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1835,7 +1835,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333-1.jpg",
+            "bgImage": "file:///C:/Users/Home/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-2000x1333_1.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
